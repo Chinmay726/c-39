@@ -3,6 +3,8 @@ class Player {
     this.index = null;
     this.distance = 0;
     this.name = null;
+    this.x = 0;
+    this.y = 0;
   }
 
   getCount(){
